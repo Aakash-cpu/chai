@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: teal;
+}
+.main {
+  font-size: xx-large;
+  text-align: justify;
+  width: 100vw;
+  height: 100vw;
+  color: azure;
+}
